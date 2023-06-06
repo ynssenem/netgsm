@@ -1,5 +1,5 @@
 {
-  "name": "netgsm",
+  "name": "@ynssenem/netgsm",
   "version": "1.0.0",
   "description": "A JavaScript library developed for NETGSM API services. It aims to simplify the execution of services like SMS OTP.",
   "main": "dist/index.js",

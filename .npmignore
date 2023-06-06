@@ -1,0 +1,6 @@
+examples/
+test/
+.env
+.env.*
+*.md
+*.log
