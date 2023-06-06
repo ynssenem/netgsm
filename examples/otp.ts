@@ -1,12 +1,5 @@
-import Netgsm from "../index";
+import Netgsm from "@ynssenem/netgsm";
 require("dotenv").config();
-
-main();
-
-//
-//
-//
-//
 
 async function main() {
   try {
@@ -29,3 +22,5 @@ async function main() {
     });
   }
 }
+
+main();

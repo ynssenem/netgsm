@@ -1,7 +1,7 @@
 
 # Netgsm
 
-Netgsm JavaScript library
+A JavaScript library developed for NETGSM API services. It aims to simplify the execution of services like SMS OTP.
 
 ## Contents
 
@@ -26,15 +26,13 @@ By using this project, you can seamlessly integrate the NETGSM API into your app
 You can follow the steps below to install the project:
 
 -   Open the terminal and navigate to the project directory.
--   Run the command `npm install ynssenem/netgsm --save` to install the required dependencies.
+-   Run the command `npm install @ynssenem/netgsm --save` to install the required dependencies.
 
 ## Usage
 
 You can find example code snippets below to guide you in using the project:
 
-javascriptCopy code
-
-`// CC` 
+ - Send OTP Message (only works in 🇹🇷 TÜRKİYE): [OTPExample](./examples/otp.ts) 
 
 Customize the above code snippets according to your project requirements to start utilizing the NETGSM API services. Since this library is designed to simplify communication operations with a NETGSM number, integrating your project with the NETGSM API will be straightforward.
 
